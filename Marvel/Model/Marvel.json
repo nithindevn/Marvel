@@ -1,0 +1,38 @@
+{
+    "characters": [{
+        "name": "Spider Man",
+        "image": "spiderman",
+        "desc": "This is Spider man. He has spider-sense."
+    },
+    {
+        "name": "Iron Man",
+        "image": "ironman",
+        "desc": "Iron Man possesses a wealth of powers through his powered armor suit."
+    },
+    {
+        "name": "Hulk",
+        "image": "hulk",
+        "desc": "This is Hulk. Becomes more powerful as anger increases."
+    },
+    {
+        "name": "Captain America",
+        "image": "captainamerica",
+        "desc": "This is Captain American. He’s considered to be the pinnicale of human perfection."
+    },
+    {
+        "name": "Thor",
+        "image": "thor",
+        "desc": "He has all the basic powers a God/Alien/otherworldly being has."
+    },
+    {
+        "name": "Black Panther",
+        "image": "blackpanther",
+        "desc": "He can lift a maximum of 750 pounds with supreme effort."
+    },
+    {
+        "name": "Ant man",
+        "image": "antman",
+        "desc": "Ant-Man maintains the strength of a regular person even when he is miniaturized."
+    }
+    ]
+}
